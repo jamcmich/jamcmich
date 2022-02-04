@@ -27,9 +27,6 @@
     <li>💪 Training the mind and body</li>
     <li>🎮 Passionate about video games</li>
   </ul>
-  ![Tennis](https://img.shields.io/badge/Tennis-009943?style=for-the-badge&logoColor=white)
-  ![Cooking](https://img.shields.io/badge/Cooking-ED163A?style=for-the-badge&logoColor=white)
-  ![Video Games](https://img.shields.io/badge/Video_Games-000000?style=for-the-badge&logoColor=white)
 <section/>
 
 <!-- About -->
