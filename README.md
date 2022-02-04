@@ -1,10 +1,10 @@
 <section id="introduction">
   <h1>
-    Introduction
+    Hey, I'm Jake!
     <img src="assets/popcat-popcorn.gif" alt="PopCatPopcorn" width="48px" height="48px" />
   </h1>
 
-  <p>Hey, I'm Jake! 👋 I'm a JavaScript developer from California.</p>
+  <p>I'm a JavaScript developer from California.</p>
 <section/>
 
 <section id="about">
@@ -61,7 +61,7 @@
 
 <section id="links">
   <h1>
-    Socials
+    Get in Touch
     <img src="assets/link-zelda-sprite.gif" alt="LinkZeldaSprite" width="48px" height="48px" />
   </h1>
   <a href="https://www.linkedin.com/in/jacobmcmichael/" target="_blank" >
