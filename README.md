@@ -1,17 +1,19 @@
 <section id="introduction">
   <h1>👋 Hey, I'm Jake!</h1>
 <!--     <img src="assets/popcat-popcorn.gif" alt="PopCatPopcorn" width="48px" height="48px" /> -->
-
+  
   <p><b>I'm a JavaScript developer from California.</b></p>
   
   <p>RECENT</p>
   <ul>
+    <li>👔 Currently looking for a full-time position!</li>
     <li>💻 Participated in the <a href="https://cooksys.com/programs/fasttrack/" target="_blank">FastTrack coding bootcamp</a> with CookSystems</li>
     <li>🎨 Designed a website for <a href="https://www.novohit.com/" target="_blank">Novohit</a></li>
   </ul>
   
+  <p>ABOUT</p>
   <ul>
-    <li>👔 Currently looking for a full-time position!</li>
+    <li>🎓 Graduated from Arizona State University with a Bachelor's in Digital Culture
     <li>🌱 Learning all about web development</li>
   </ul>
 <section/>
@@ -79,6 +81,9 @@
   </a>
   <a href="https://github.com/jamcmich" target="_blank" >
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" height="24px" />
+  </a>
+  <a href="https://leetcode.com/jamcmich/" target="_blank" >
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=github&logoColor=white" alt="leetcode" height="24px" />
   </a>
   <a href="assets/resume.pdf" target="_blank" >
     <img src="https://img.shields.io/badge/Resume-009943?style=for-the-badge&logoColor=white" alt="resume" height="24px" />
