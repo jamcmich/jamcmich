@@ -1,10 +1,19 @@
 <section id="introduction">
-  <h1>
-    Hey, I'm Jake!
-    <img src="assets/popcat-popcorn.gif" alt="PopCatPopcorn" width="48px" height="48px" />
-  </h1>
+  <h1>👋 Hey, I'm Jake!</h1>
+<!--     <img src="assets/popcat-popcorn.gif" alt="PopCatPopcorn" width="48px" height="48px" /> -->
 
-  <p>I'm a JavaScript developer from California.</p>
+  <p><b>I'm a JavaScript developer from California.</b></p>
+  
+  <p>RECENT</p>
+  <ul>
+    <li>💻 Participated in the <a href="https://cooksys.com/programs/fasttrack/" target="_blank">FastTrack coding bootcamp</a> with CookSystems</li>
+    <li>🎨 Designed a website for <a href="https://www.novohit.com/" target="_blank">Novohit</a></li>
+  </ul>
+  
+  <ul>
+    <li>👔 Currently looking for a full-time position!</li>
+    <li>🌱 Learning all about web development</li>
+  </ul>
 <section/>
 
 <section id="about">
@@ -60,10 +69,8 @@
 </section>
 
 <section id="links">
-  <h1>
-    Get in Touch
-    <img src="assets/link-zelda-sprite.gif" alt="LinkZeldaSprite" width="48px" height="48px" />
-  </h1>
+  <h1>📫 Get in Touch</h1>
+<!--   <img src="assets/link-zelda-sprite.gif" alt="LinkZeldaSprite" width="48px" height="48px" /> -->
   <a href="https://www.linkedin.com/in/jacobmcmichael/" target="_blank" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="24px" />
   </a>
