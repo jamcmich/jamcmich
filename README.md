@@ -1,13 +1,13 @@
 <section id="introduction">
   <h1>
     Introduction
-    <img src="https://emoji.gg/assets/emoji/4330-popcatpopcorn.gif" alt="PopCatPopcorn" width="48px" height="48px" />
+    <img src="/assets/popcat-popcorn" alt="PopCatPopcorn" width="48px" height="48px" />
   </h1>
 
   <p>Hey, I'm Jake! 👋 I'm a JavaScript developer from California.</p>
 <section/>
 
-<section>
+<section id="about">
   <table>
     <tr>
       <th>Tools</th>
@@ -62,7 +62,7 @@
 <section id="links">
   <h1>
     Socials
-    <img src="https://giffiles.alphacoders.com/443/44306.gif" alt="LinkZeldaSprite" width="48px" height="48px" />
+    <img src="/assets/link-zelda-sprite" alt="LinkZeldaSprite" width="48px" height="48px" />
   </h1>
   <a href="https://www.linkedin.com/in/jacobmcmichael/" target="_blank" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="24px" />
