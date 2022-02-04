@@ -19,6 +19,17 @@
     <li>🎓 Graduated from Arizona State University with a Bachelor's in Digital Culture
     <li>🌱 Learning all about web development</li>
   </ul>
+  
+  <h4>HOBBIES</h4>
+  <ul>
+    <li>🎾 Avid tennis player</li>
+    <li>🌿 Searching for new cooking recipes</li>
+    <li>💪 Training the mind and body</li>
+    <li>🎮 Passionate about video games</li>
+  </ul>
+  ![Tennis](https://img.shields.io/badge/Tennis-009943?style=for-the-badge&logoColor=white)
+  ![Cooking](https://img.shields.io/badge/Cooking-ED163A?style=for-the-badge&logoColor=white)
+  ![Video Games](https://img.shields.io/badge/Video_Games-000000?style=for-the-badge&logoColor=white)
 <section/>
 
 <!-- About -->
@@ -40,13 +51,6 @@
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=expressjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=node.js&logoColor=white)
-
-<h4>HOBBIES</h4>
-  
-![Fitness](https://img.shields.io/badge/Fitness-EC6237?style=for-the-badge&logoColor=white)
-![Tennis](https://img.shields.io/badge/Tennis-009943?style=for-the-badge&logoColor=white)
-![Cooking](https://img.shields.io/badge/Cooking-ED163A?style=for-the-badge&logoColor=white)
-![Video Games](https://img.shields.io/badge/Video_Games-000000?style=for-the-badge&logoColor=white)
 
 <!-- Socials -->
 
