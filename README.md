@@ -1,6 +1,3 @@
-<!--  <img src="assets/popcat-popcorn.gif" alt="PopCatPopcorn" width="48px" height="48px" /> -->
-<!--  <img src="assets/link-zelda-sprite.gif" alt="LinkZeldaSprite" width="48px" height="48px" /> -->
-
 <!-- Introduction -->
 <section id="introduction">
   <h1>👋 Hey, I'm Jake!</h1>
