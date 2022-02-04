@@ -16,8 +16,10 @@
   
   <h4>ABOUT</h4>
   <ul>
-    <li>🎓 Graduated from Arizona State University with a Bachelor's in Digital Culture
+    <li>🎓 Graduated from Arizona State University with a Bachelor's in <a href="https://artsmediaengineering.asu.edu/degree-programs/digital-culture-ba">Digital Culture</a>
     <li>🌱 Learning all about web development</li>
+    <li>✨ Experienced in User Interface and User Experience design patterns</li>
+    <li>📐 Adept at editing videos and content using Adobe Premiere</li>
   </ul>
   
   <h4>HOBBIES</h4>
