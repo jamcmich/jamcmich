@@ -73,4 +73,7 @@
   <a href="https://github.com/jamcmich" target="_blank" >
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" height="24px" />
   </a>
+  <a href="assets/resume.pdf" target="_blank" >
+    <img src="https://img.shields.io/badge/Resume-009943?style=for-the-badge&logoColor=white" alt="resume" height="24px" />
+  </a>
 </section>
