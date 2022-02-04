@@ -26,7 +26,7 @@
 
 <ul>
   <li>
-    <img src="assets/svgs/windows.svg" alt="windows" />
+    <img src="assets/svgs/windows.svg" alt="windows" width="24px" height="24px" />
     Windows
   </li>
   <li>
