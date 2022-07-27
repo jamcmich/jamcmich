@@ -2,7 +2,7 @@
 <section id="introduction">
   <h1>👋 Hey, I'm Jake!</h1>
   
-  <p><b>I'm a JavaScript developer from California with a passion for helping individuals and organizations accomplish their goals.</b></p>
+  <p><b>I'm a Web Developer from California with a passion for helping individuals and organizations accomplish their goals.</b></p>
   
   <h4>RECENT</h4>
   <ul>
@@ -11,12 +11,12 @@
     <li>🎨 Designed a website for <a href="https://www.novohit.com/" target="_blank">Novohit</a></li>
   </ul>
   
-  <h4>ABOUT</h4>
+  <h4>SKILLS</h4>
   <ul>
     <li>🎓 Graduated from Arizona State University with a Bachelor's in <a href="https://artsmediaengineering.asu.edu/degree-programs/digital-culture-ba">Digital Culture</a>
     <li>🌱 Learning all about web development</li>
     <li>✨ Experienced in User Interface and User Experience design patterns</li>
-    <li>📐 Adept at editing videos and content using Adobe Premiere</li>
+    <li>📐 Discovering my potential for developing web apps in React</li>
   </ul>
   
   <h4>HOBBIES</h4>
@@ -55,5 +55,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacobmcmichael/)
 [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacobmcmichael@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jamcmich)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/jamcmich/)
 [![JavaScript](https://img.shields.io/badge/Resume-009943?style=for-the-badge&logoColor=white)](assets/documents/resume.pdf)
