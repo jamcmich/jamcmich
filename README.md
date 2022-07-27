@@ -2,7 +2,7 @@
 <section id="introduction">
   <h1>👋 Hey, I'm Jake!</h1>
   
-  <p><b>I'm a JavaScript developer from California with a passion for helping individuals and organizations accomplish their goals.</b></p>
+  <p><b>I'm a Web Developer from California with a passion for helping individuals and organizations accomplish their goals.</b></p>
   
   <h4>RECENT</h4>
   <ul>
