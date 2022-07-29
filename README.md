@@ -1,12 +1,13 @@
 <!-- Introduction -->
 <section id="introduction">
   <h1>👋 Hey, I'm Jake!</h1>
+  <p>I'm a Web Developer from California with a passion for helping individuals and organizations accomplish their goals.</p>
   
-  <p><b>I'm a Web Developer from California with a passion for helping individuals and organizations accomplish their goals.</b></p>
-  
-  <h4>RECENT</h4>
+  <h3><b>👔 Currently looking for a full-time position!</b></h3>
+
+  <h4>RECENT PROJECTS</h4>
   <ul>
-    <li>👔 Currently looking for a full-time position!</li>
+    <li>🔍 Developed a <a href="https://github.com/jamcmich/google-search-clone">Google Search Clone</a> using <b>React</b>, <b>Tailwind</b>, and <b>Node.js</b></li>
     <li>💻 Participated in the <a href="https://cooksys.com/programs/fasttrack/" target="_blank">FastTrack coding bootcamp</a> with CookSystems</li>
     <li>🎨 Designed a website for <a href="https://www.novohit.com/" target="_blank">Novohit</a></li>
   </ul>
