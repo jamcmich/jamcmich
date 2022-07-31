@@ -59,4 +59,3 @@
 [![JavaScript](https://img.shields.io/badge/Resume-009943?style=for-the-badge&logoColor=white)](assets/documents/resume.pdf)
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
