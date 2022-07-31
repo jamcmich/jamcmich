@@ -57,5 +57,3 @@
 [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacobmcmichael@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jamcmich)
 [![JavaScript](https://img.shields.io/badge/Resume-009943?style=for-the-badge&logoColor=white)](assets/documents/resume.pdf)
-
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
