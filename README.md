@@ -53,7 +53,7 @@
 
 # 📫 Get in Touch
 
-<div align='center'>
+<div align='center' valign='middle' >
   <a href='mailto:jacobmcmichael@gmail.com' target='_blank' rel='nofollow' >
     <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=white' alt='gmail' />
   </a>
