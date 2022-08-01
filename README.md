@@ -53,10 +53,6 @@
 
 # 📫 Get in Touch
 
-[![Instagram]()](assets/icons/instagram.svg)
-[![Twitter]()](assets/icons/twitter.svg)
-[![Resume]()](assets/documents/resume.pdf)
-
 <a href='mailto:jacobmcmichael@gmail.com' target='_blank' rel='nofollow' >
   <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=white' alt='gmail' />
 </a>
@@ -73,6 +69,6 @@
   <img src='https://img.shields.io/badge/LinkedIn-D14836?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=white' alt='twitter' />
 </a>
   
-<a href='' target='_blank' rel='nofollow' >
-  <img src='https://img.shields.io/badge/LinkedIn-D14836?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=white' alt='resume' />
+<a href='./assets/documents/resume.pdf' target='_blank' rel='nofollow' >
+  <img src='https://img.shields.io/badge/Resume-D14836?style=for-the-badge&logo=libreoffice&logoColor=white&labelColor=18A303&color=white' alt='resume' />
 </a>
