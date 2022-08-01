@@ -54,21 +54,21 @@
 # 📫 Get in Touch
 
 <a href='mailto:jacobmcmichael@gmail.com' target='_blank' rel='nofollow' >
-  <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=white' alt='gmail' height='120px' />
+  <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=white' alt='gmail' />
 </a>
   
 <a href='https://www.linkedin.com/in/jacobmcmichael/' target='_blank' rel='nofollow' >
-  <img src='https://img.shields.io/badge/LinkedIn-D14836?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=white' alt='linkedin' height='120px' />
+  <img src='https://img.shields.io/badge/LinkedIn-D14836?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=white' alt='linkedin' />
 </a>
   
 <a href='' target='_blank' rel='nofollow' >
-  <img src='https://img.shields.io/badge/LinkedIn-D14836?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=white' alt='instagram' height='120px' />
+  <img src='https://img.shields.io/badge/LinkedIn-D14836?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=white' alt='instagram' />
 </a>
   
 <a href='' target='_blank' rel='nofollow' >
-  <img src='https://img.shields.io/badge/LinkedIn-D14836?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=white' alt='twitter' height='120px' />
+  <img src='https://img.shields.io/badge/LinkedIn-D14836?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=white' alt='twitter' />
 </a>
   
 <a href='./assets/documents/resume.pdf' target='_blank' rel='nofollow' >
-  <img src='https://img.shields.io/badge/Resume-D14836?style=for-the-badge&logo=libreoffice&logoColor=white&labelColor=18A303&color=white' alt='resume' height='120px' />
+  <img src='https://img.shields.io/badge/Resume-D14836?style=for-the-badge&logo=libreoffice&logoColor=white&labelColor=18A303&color=white' alt='resume' />
 </a>
