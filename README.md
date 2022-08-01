@@ -60,5 +60,5 @@
 [![Resume]()](assets/documents/resume.pdf)
 
 <a href='mailto:jacobmcmichael@gmail.com' target='_blank' rel='nofollow'>
-  <img src='./assets/icons/gmail.svg' alt='gmail' width='50px' height='50px' />
+  <img src='./assets/icons/gmail.svg' alt='gmail' width='50px' height='50px' style='background-color: #FFFFFF'/>
 </a>
