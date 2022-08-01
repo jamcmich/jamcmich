@@ -50,10 +50,10 @@
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=node.js&logoColor=white)
 
 <!-- Socials -->
-
-# 📫 Get in Touch
+<h1 align='center' >📫 Get in Touch</h1>
 
 <div align='center' valign='middle' >
+  </br>
   <a href='mailto:jacobmcmichael@gmail.com' target='_blank' rel='nofollow' >
     <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=white' alt='gmail' />
   </a>
