@@ -59,6 +59,6 @@
 [![Twitter]()](assets/icons/twitter.svg)
 [![Resume]()](assets/documents/resume.pdf)
 
-<a href='mailto:jacobmcmichael@gmail.com' target='_blank' rel='nofollow'>
-  <img src='./assets/icons/gmail.svg' alt='gmail' width='50px' height='50px' style='background-color: #FFFFFF'/>
+<a href='mailto:jacobmcmichael@gmail.com' target='_blank' rel='nofollow' style='background-color: #FFFFFF; border: 3px solid red;'>
+  <img src='./assets/icons/gmail.svg' alt='gmail' width='50px' height='50px' />
 </a>
