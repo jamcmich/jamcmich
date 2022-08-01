@@ -62,11 +62,11 @@
 </a>
   
 <a href='' target='_blank' rel='nofollow' >
-  <img src='https://img.shields.io/badge/LinkedIn-D14836?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=white' alt='instagram' />
+  <img src='https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=white' alt='instagram' />
 </a>
   
 <a href='' target='_blank' rel='nofollow' >
-  <img src='https://img.shields.io/badge/LinkedIn-D14836?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=white' alt='twitter' />
+  <img src='https://img.shields.io/badge/Twitter-D14836?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=white' alt='twitter' />
 </a>
   
 <a href='./assets/documents/resume.pdf' target='_blank' rel='nofollow' >
