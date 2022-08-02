@@ -54,7 +54,7 @@
 
 <div align='center' valign='middle' >
   </br>
-  <a href='mailto:jacobmcmichael@gmail.com?subject=Just%20Saw%20Your%20Amazing%20Background%20and%20Wanted%20to%20Reach%20Out%20😎' >
+  <a href='mailto:jacobmcmichael@gmail.com?subject=Just%20Saw%20Your%20Amazing%20Background%20and%20Wanted%20to%20Reach%20Out%20😎' target='_blank' >
     <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=white' alt='gmail' />
   </a>
 
