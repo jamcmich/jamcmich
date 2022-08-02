@@ -1,7 +1,8 @@
-<!-- Introduction -->
+<!-- About -->
+<h2>🙋‍♂️ About Me</h2>
 <section id="introduction">
 	<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=4000&color=4795FF&center=false&vCenter=true&width=500&height=50&lines=Hey+%F0%9F%91%8B%2C+I'm+Jake!;Frontend+Web+Developer;Experienced+UI%2FUX+Designer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=4000&color=4795FF&center=false&vCenter=true&width=500&height=50&lines=Hey+%F0%9F%91%8B%2C+I'm+Jake!;Frontend+Web+Developer;Experienced+UI%2FUX+Designer" alt="Typing SVG" />
   </a>
   <p>I'm a Web Developer from California with a passion for helping individuals and organizations accomplish their goals.</p>
   
@@ -32,7 +33,7 @@
 <section/>
 
 <!-- Tools -->
-<h1>🛠️ Favorite Tools</h1>
+<h2>🛠️ Favorite Tools</h2>
 
 <h4>SERVICES</h4>
 <p>  
@@ -60,7 +61,7 @@
 </p>
   
 <!-- Socials -->
-<h1>📫 Get in Touch</h1>
+<h2>📫 Get in Touch</h2>
 <p>
   <a href='mailto:jacobmcmichael@gmail.com?subject=Just%20Saw%20Your%20Amazing%20Background%20and%20Wanted%20to%20Reach%20Out%20😎' target='_blank'>
     <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=white' alt='gmail' />
