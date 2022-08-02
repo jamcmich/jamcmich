@@ -1,7 +1,7 @@
 <!-- Introduction -->
 <section id="introduction">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=4000&color=4795FF&center=false&vCenter=true&width=500&height=100&lines=Hey+%F0%9F%91%8B%2C+I'm+Jake!;Frontend+Web+Developer;Experienced+UI%2FUX+Designer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=4000&color=4795FF&center=false&vCenter=true&width=500&height=50&lines=Hey+%F0%9F%91%8B%2C+I'm+Jake!;Frontend+Web+Developer;Experienced+UI%2FUX+Designer" alt="Typing SVG" />
   </a>
   <p>I'm a Web Developer from California with a passion for helping individuals and organizations accomplish their goals.</p>
   
