@@ -41,6 +41,8 @@
    <h5>SERVICES</h5>
    <img src="https://img.shields.io/badge/Windows-0D47A1?style=flat&logo=windows&logoColor=white" alt="Windows" align='center' height='20px' />
    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" align='center' height='20px' />
+   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" align='center' height='20px' />
+   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" alt="Notion" align='center' height='20px' />
    <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" align='center' height='20px' />
    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" align='center' height='20px' />
    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" align='center' height='20px' />
