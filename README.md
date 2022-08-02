@@ -48,7 +48,6 @@
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=expressjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=node.js&logoColor=white)
-[Test](mailto:jacobmcmichael@gmail.com?subject=Just%20Saw%20Your%20Amazing%20Background%20and%20Wanted%20to%20Reach%20Out%20😎)
   
 <!-- Socials -->
 <h1 align='center' >📫 Get in Touch</h1>
