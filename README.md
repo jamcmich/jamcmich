@@ -54,31 +54,13 @@
 
 <div align='center' valign='middle' >
   </br>
-  <a href='mailto:jacobmcmichael@gmail.com' target='_blank' rel='nofollow' >
-    <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=white' alt='gmail' />
-  </a>
-    
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href='mailto:jacobmcmichael@gmail.com' target='_blank' rel='nofollow' ><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=white' alt='gmail' /></a>
 
-  <a href='https://www.linkedin.com/in/jacobmcmichael/' target='_blank' rel='nofollow' >
-    <img src='https://img.shields.io/badge/LinkedIn-D14836?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=white' alt='linkedin' />
-  </a>
+  <a href='https://www.linkedin.com/in/jacobmcmichael/' target='_blank' rel='nofollow' ><img src='https://img.shields.io/badge/LinkedIn-D14836?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=white' alt='linkedin' /></a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-    
-  <a href='' target='_blank' rel='nofollow' >
-    <img src='https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=white' alt='instagram' />
-  </a>
+  <a href='' target='_blank' rel='nofollow' ><img src='https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=white' alt='instagram' /></a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href='' target='_blank' rel='nofollow' ><img src='https://img.shields.io/badge/Twitter-D14836?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=white' alt='twitter' /></a>
     
-  <a href='' target='_blank' rel='nofollow' >
-    <img src='https://img.shields.io/badge/Twitter-D14836?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=white' alt='twitter' />
-  </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-    
-  <a href='./assets/documents/resume.pdf'>
-    <img src='https://img.shields.io/badge/Resume-D14836?style=for-the-badge&logo=libreoffice&logoColor=white&labelColor=18A303&color=white' alt='resume' />
-  </a>
+  <a href='./assets/documents/resume.pdf'><img src='https://img.shields.io/badge/Resume-D14836?style=for-the-badge&logo=libreoffice&logoColor=white&labelColor=18A303&color=white' alt='resume' /></a>
 </div>
