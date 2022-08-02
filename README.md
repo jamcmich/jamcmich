@@ -57,10 +57,6 @@
   <a href='mailto:jacobmcmichael@gmail.com?subject=Just%20Saw%20Your%20Amazing%20Background%20and%20Wanted%20to%20Reach%20Out%20😎' target='_blank' >
     <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=white' alt='gmail' />
   </a>
-  
-  <a href='mailto:jacobmcmichael@gmail.com' >
-    <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=white' alt='gmail' />
-  </a>
 
   <a href='https://www.linkedin.com/in/jacobmcmichael/' target='_blank' >
     <img src='https://img.shields.io/badge/LinkedIn-D14836?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=white' alt='linkedin' />
