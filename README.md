@@ -47,10 +47,12 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white&logoWidth=15" alt="jQuery" height='20px'>
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB&logoWidth=15" alt="React" height='20px'>
 <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white&logoWidth=15" alt="Redux" height='20px'>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=redux&logoColor=white&logoWidth=15" alt="Tailwind" height='20px'>
+<img src="https://img.shields.io/badge/SaSS-CC6699?style=flat&logo=sass&logoColor=white&logoWidth=15" alt="SaSS" height='20px'>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white&logoWidth=15" alt="Tailwind" height='20px'>
+<img src="https://img.shields.io/badge/Windi-48B0F1?style=flat&logo=windicss&logoColor=white&logoWidth=15" alt="Windi" height='20px'>
 <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=expressjs&logoColor=white&logoWidth=15" alt="Express.js" height='20px'>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white&logoWidth=15" alt="Node.js" height='20px'>
-<img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=node.js&logoColor=white&logoWidth=15" alt="npm" height='20px'>
+<img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white&logoWidth=15" alt="npm" height='20px'>
   
 <!-- Socials -->
 <h1>📫 Get in Touch</h1>
