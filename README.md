@@ -31,48 +31,50 @@
   </ul>
 <section/>
 
-<!-- About -->
-<h4>TOOLS</h4>
+<!-- Tools -->
+<h1 align='center'>🛠️ Favorite Tools</h1>
 
+<h4>SERVICES</h4>
 ![Windows](https://img.shields.io/badge/Windows-0D47A1?style=for-the-badge&logo=windows&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)
 
+<!-- Skills -->
 <h4>SKILLSET</h4>
   
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white&logoWidth=15" alt="HTML5" height='20px'>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white&logoWidth=15" alt="CSS3" height='20px'>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E&logoWidth=15" alt="JavaScript" height='20px'>
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white&logoWidth=15" alt="jQuery" height='20px'>
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB&logoWidth=15" alt="React" height='20px'>
-<img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white&logoWidth=15" alt="Redux" height='20px'>
-<img src="https://img.shields.io/badge/SaSS-CC6699?style=flat&logo=sass&logoColor=white&logoWidth=15" alt="SaSS" height='20px'>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white&logoWidth=15" alt="Tailwind" height='20px'>
-<img src="https://img.shields.io/badge/Windi-48B0F1?style=flat&logo=windicss&logoColor=white&logoWidth=15" alt="Windi" height='20px'>
-<img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=expressjs&logoColor=white&logoWidth=15" alt="Express.js" height='20px'>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white&logoWidth=15" alt="Node.js" height='20px'>
-<img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white&logoWidth=15" alt="npm" height='20px'>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height='20px' align='center' >
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" height='20px' align='center' >
+<img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height='20px' align='center' >
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" alt="jQuery" height='20px' align='center' >
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" height='20px' align='center' >
+<img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" alt="Redux" height='20px' align='center' >
+<img src="https://img.shields.io/badge/SaSS-CC6699?style=flat&logo=sass&logoColor=white" alt="SaSS" height='20px' align='center' >
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind" height='20px' align='center' >
+<img src="https://img.shields.io/badge/Windi-48B0F1?style=flat&logo=windicss&logoColor=white" alt="Windi" height='20px' align='center' >
+<img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=expressjs&logoColor=white" alt="Express.js" height='20px' align='center' >
+<img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node.js" height='20px' align='center' >
+<img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" alt="npm" height='20px' align='center' >
   
 <!-- Socials -->
 <h1>📫 Get in Touch</h1>
   
 <a href='mailto:jacobmcmichael@gmail.com?subject=Just%20Saw%20Your%20Amazing%20Background%20and%20Wanted%20to%20Reach%20Out%20😎' target='_blank' >
-  <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=white' alt='gmail' />
+  <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=white' alt='gmail' align='center' />
 </a>
 
 <a href='https://www.linkedin.com/in/jacobmcmichael/' target='_blank' >
-  <img src='https://img.shields.io/badge/LinkedIn-D14836?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=white' alt='linkedin' />
+  <img src='https://img.shields.io/badge/LinkedIn-D14836?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=white' alt='linkedin' align='center' />
 </a>
 
 <a href='' target='_blank' >
-  <img src='https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=white' alt='instagram' />
+  <img src='https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=white' alt='instagram' align='center' />
 </a>
 
 <a href='' target='_blank' >
-  <img src='https://img.shields.io/badge/Twitter-D14836?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=white' alt='twitter' />
+  <img src='https://img.shields.io/badge/Twitter-D14836?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=white' alt='twitter'  align='center' />
 </a>
 
 <a href='./assets/documents/resume.pdf' >
-  <img src='https://img.shields.io/badge/Resume-D14836?style=for-the-badge&logo=libreoffice&logoColor=white&labelColor=18A303&color=white' alt='resume' />
+  <img src='https://img.shields.io/badge/Resume-D14836?style=for-the-badge&logo=libreoffice&logoColor=white&labelColor=18A303&color=white' alt='resume' align='center' />
 </a>
