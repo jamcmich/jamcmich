@@ -35,13 +35,13 @@
 <h1 align='center'>🛠️ Favorite Tools</h1>
 
 <h4>SERVICES</h4>
-![Windows](https://img.shields.io/badge/Windows-0D47A1?style=for-the-badge&logo=windows&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)
+<img src="https://img.shields.io/badge/Windows-0D47A1?style=flat&logo=windows&logoColor=white" alt="Windows" align='center' >
+<img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" align='center' >
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" align='center' >
+<img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" align='center' >
 
 <!-- Skills -->
-<h4>SKILLSET</h4>
+<h4>PROGRAMMING & MARKUP LANGUAGES</h4>
   
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height='20px' align='center' >
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" height='20px' align='center' >
