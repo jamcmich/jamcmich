@@ -22,7 +22,7 @@
       <li>🎓 Graduated from Arizona State University with a Bachelor's in <a href="https://artsmediaengineering.asu.edu/degree-programs/digital-culture-ba">Digital Culture</a>
       <li>🌱 Learning all about web development</li>
       <li>✨ Experienced in User Interface and User Experience design patterns</li>
-      <li>📐 Discovering my potential for developing web apps in React</li>
+      <li>📐 Discovering my potential for developing web apps with React, JavaScript, and Node.js</li>
    </ul>
    
    <h5>HOBBIES</h5>
