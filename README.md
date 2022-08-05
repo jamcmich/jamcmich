@@ -69,7 +69,7 @@
    
    <h5></h5>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamcmich&layout=compact&theme=github_dark&custom_title=Top%20Languages&border_color=0d1117" alt="Top Languages" width='300px' align='top'>
-   <img src="https://github-readme-stats.vercel.app/api?username=jamcmich&show_icons=true&count_private=true&custom_title=Github%20Stats&theme=github_dark&border_color=0d1117" alt="GitHub Stats" width='300px' align='top'>
+   <img src="https://github-readme-stats.vercel.app/api?username=jamcmich&show_icons=true&count_private=true&custom_title=Github%20Stats&theme=github_dark&border_color=0d1117" alt="GitHub Stats" width='500px' align='top'>
 </section>
 
 <!-- Socials -->
