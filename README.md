@@ -64,6 +64,11 @@
    <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=expressjs&logoColor=white" alt="Express.js" align='center' height='20px' />
    <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node.js" align='center' height='20px' />
    <img src="https://img.shields.io/badge/SQL-CB3837?style=flat&logo=sql&logoColor=white" alt="SQL" align='center' height='20px' />
+   
+   <h5></h5>
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamcmich&layout=compact&theme=github_dark&custom_title=Top%20Languages" alt="Most Practiced Languages">
+   </a>
 </section>
 
 <!-- Socials -->
