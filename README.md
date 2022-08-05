@@ -40,30 +40,30 @@
    <h2>🛠️ Favorite Tools</h2>
    
    <h5>SOFTWARE & SERVICES</h5>
-   <img src="https://img.shields.io/badge/Windows-0D47A1?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" align='center' height='30px' />
-   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" align='center' height='30px' />
-   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" align='center' height='30px' />
-   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" align='center' height='30px' />
-   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" align='center' height='30px' />
-   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" align='center' height='30px' />
-   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" align='center' height='30px' />
-   <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" align='center' height='30px' />
-   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" align='center' height='30px' />
-   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" align='center' height='30px' />
+   <img src="https://img.shields.io/badge/Windows-0D47A1?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" align='center' height='25px' />
+   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" align='center' height='25px' />
+   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" align='center' height='25px' />
+   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" align='center' height='25px' />
+   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" align='center' height='25px' />
+   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" align='center' height='25px' />
+   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" align='center' height='25px' />
+   <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" align='center' height='25px' />
+   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" align='center' height='25px' />
+   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" align='center' height='25px' />
    
    <h5>FRAMEWORKS, LIBRARIES, & LANGUAGES</h5>
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" align='center' height='30px' />
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" align='center' height='30px' />
-   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" align='center' height='30px' />
-   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" align='center' height='30px' />
-   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" align='center' height='30px' />
-   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" align='center' height='30px' />
-   <img src="https://img.shields.io/badge/SaSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SaSS" align='center' height='30px' />
-   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" align='center' height='30px' />
-   <img src="https://img.shields.io/badge/Windi-48B0F1?style=for-the-badge&logo=windicss&logoColor=white" alt="Windi" align='center' height='30px' />
-   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=expressjs&logoColor=white" alt="Express.js" align='center' height='30px' />
-   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" align='center' height='30px' />
-   <img src="https://img.shields.io/badge/SQL-CB3837?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" align='center' height='30px' />
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" align='center' height='25px' />
+   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" align='center' height='25px' />
+   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" align='center' height='25px' />
+   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" align='center' height='25px' />
+   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" align='center' height='25px' />
+   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" align='center' height='25px' />
+   <img src="https://img.shields.io/badge/SaSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SaSS" align='center' height='25px' />
+   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" align='center' height='25px' />
+   <img src="https://img.shields.io/badge/Windi-48B0F1?style=for-the-badge&logo=windicss&logoColor=white" alt="Windi" align='center' height='25px' />
+   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=expressjs&logoColor=white" alt="Express.js" align='center' height='25px' />
+   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" align='center' height='25px' />
+   <img src="https://img.shields.io/badge/SQL-CB3837?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" align='center' height='25px' />
    
    <h5></h5>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamcmich&layout=compact&theme=github_dark&custom_title=Top%20Languages&border_color=0d1117" alt="Top Languages" align='top'>
