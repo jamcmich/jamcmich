@@ -66,7 +66,7 @@
    <img src="https://img.shields.io/badge/SQL-CB3837?style=flat&logo=sql&logoColor=white" alt="SQL" align='center' height='20px' />
    
    <h5></h5>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamcmich&layout=compact&theme=github_dark&custom_title=Top%20Languages&border_color=0d1117" alt="Most Practiced Languages" align='top'>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamcmich&layout=compact&theme=github_dark&card_width=300&custom_title=Top%20Languages&border_color=0d1117" alt="Top Languages" align='top'>
    <img src="https://github-readme-stats.vercel.app/api?username=jamcmich&show_icons=true&count_private=true&custom_title=Github%20Stats&theme=github_dark&border_color=0d1117" alt="GitHub Stats" align='top'>
 </section>
 
