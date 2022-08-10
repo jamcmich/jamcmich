@@ -93,4 +93,4 @@
    </a>
 </section>
 
-<img src='https://github.com/jamcmich/jamcmich/blob/output/github-contribution-grid-snake.svg?palette=github-dark' />
+<img src='https://github.com/jamcmich/jamcmich/blob/output/github-contribution-grid-snake.svg?palette=github-dark&color_snake=#4795ff' />
