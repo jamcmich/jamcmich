@@ -93,4 +93,4 @@
    </a>
 </section>
 
-![Snake Animation](snake-dark.svg#gh-dark-mode-only)
+<img src='https://github.com/jamcmich/jamcmich/blob/output/github-contribution-grid-snake.gif' />
