@@ -92,3 +92,5 @@
       <img src='https://img.shields.io/badge/Resume-D14836?style=for-the-badge&logo=libreoffice&logoColor=white&labelColor=18A303&color=white' alt='resume' />
    </a>
 </section>
+
+![Snake Animation](https://github.com/jamcmich/jamcmich/blob/output/snake.svg)
