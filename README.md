@@ -69,6 +69,10 @@
 </section>
 
 ##### READING HABITS
+<!-- <a href="https://app.daily.dev/jamcmich">
+   <img src="https://api.daily.dev/devcards/d89527afd0874cffb06af733e6be79fa.png?r=lko" width="300" alt="Jacob McMichael's Dev Card"/>
+</a> -->
+
 <!-- DEVDAILY:START -->
 - [Please Start Writing Better Git Commits](https://app.daily.dev/posts/MED_DxGcl?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [How to automate API tests with Postman](https://app.daily.dev/posts/t8HiQN64h?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
