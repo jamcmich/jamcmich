@@ -67,6 +67,10 @@
    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" align='center' height='22px' />
    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" align='center' height='22px' />
    
+   <h5>READING HABITS</h5>
+   <!--  daily.dev BOOKMARKS:START -->
+   <!--  daily.dev BOOKMARKS:END -->
+
    <h5></h5>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamcmich&layout=compact&theme=github_dark&custom_title=Top%20Languages&border_color=0d1117" alt="Top Languages" width='325px' align='top'>
    <img src="https://github-readme-stats.vercel.app/api?username=jamcmich&show_icons=true&count_private=true&custom_title=Github%20Stats&theme=github_dark&border_color=0d1117" alt="GitHub Stats" width='450px' align='top'>
