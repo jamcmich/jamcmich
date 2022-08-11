@@ -9,7 +9,7 @@ on:
     branches:
       - main
   schedule:
-  # Scheduled for each night
+    # Runs every night
     - cron: "0 0 * * *"
 
 jobs:
@@ -21,4 +21,4 @@ jobs:
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
           commit_branch: main
-          commit_filename: ./assets/devcard.png
+          commit_filename: assets/devcard.png
