@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: change dir
-        run: cd assets
+        run: cd /assets
 
       - name: devcard
         uses: dailydotdev/action-devcard@2.0.2
