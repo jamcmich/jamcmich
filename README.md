@@ -90,7 +90,7 @@
    <a href='https://twitter.com/jamcmich' target='_blank'>
       <img src='https://img.shields.io/badge/Twitter-D14836?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=white' alt='twitter' />
    </a>
-   <a href='./assets/documents/resume.pdf'>
+   <a href='./assets/resume.pdf'>
       <img src='https://img.shields.io/badge/Resume-D14836?style=for-the-badge&logo=libreoffice&logoColor=white&labelColor=18A303&color=white' alt='resume' />
    </a>
 </section>
