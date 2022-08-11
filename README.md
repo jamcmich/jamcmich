@@ -70,6 +70,11 @@
 
 ##### READING HABITS
 <!-- DEVDAILY:START -->
+- [Please Start Writing Better Git Commits](https://app.daily.dev/posts/MED_DxGcl?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [How to automate API tests with Postman](https://app.daily.dev/posts/t8HiQN64h?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [How to Use Three.js And React to Render a 3D Model of Your Self](https://app.daily.dev/posts/pko_8ymRi?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Everything you need to learn TypeScript in just 4 minutes](https://app.daily.dev/posts/lFWZq0AsS?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [JavaScript object destructuring tips](https://app.daily.dev/posts/AMGDv225h?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <section>
