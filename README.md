@@ -5,7 +5,7 @@
    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=4000&color=4795FF&center=false&vCenter=true&width=500&height=50&lines=Hey+%F0%9F%91%8B%2C+I'm+Jake!;Frontend+Web+Developer;Experienced+UI%2FUX+Designer" alt="Typing SVG" />
    </a>
    <p>
-      I'm a Frontend Web Developer from California with a passion for helping individuals and organizations accomplish their goals.
+      🐱‍💻 I'm a Frontend Web Developer from California with a passion for helping individuals and organizations accomplish their goals.
       </br>
       <small>👔 Currently looking for a full-time position!</small>
    </p>
@@ -87,7 +87,7 @@
    <a href='' target='_blank'>
       <img src='https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=white' alt='instagram' />
    </a>
-   <a href='' target='_blank'>
+   <a href='https://twitter.com/jamcmich' target='_blank'>
       <img src='https://img.shields.io/badge/Twitter-D14836?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=white' alt='twitter' />
    </a>
    <a href='./assets/documents/resume.pdf'>
