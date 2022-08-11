@@ -2,13 +2,13 @@
 <section>
    <h2>🙋‍♂️ About Me</h2>
    <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=4000&color=4795FF&center=false&vCenter=true&width=500&height=50&lines=Hey+%F0%9F%91%8B%2C+I'm+Jake!;Frontend+Web+Developer;Experienced+UI%2FUX+Designer" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=4000&color=4795FF&center=false&vCenter=true&width=500&height=50&lines=Hey+%F0%9F%91%8B%2C+I'm+Jake!;Frontend+Web+Developer;Experienced+UI%2FUX+Designer" alt="Typing SVG" />
    </a>
-   <p>
-      🐱‍💻 I'm a Frontend Web Developer from California with a passion for helping individuals and organizations accomplish their goals.
-      </br>
-      <small>👔 Currently looking for a full-time position!</small>
-   </p>
+   
+   <ul>
+      <li>🐱‍💻 I'm a Frontend Web Developer from California with a passion for helping individuals and organizations accomplish their goals.</li>
+      <li>👔 Currently looking for a full-time position!</li>
+   </ul>
    
    <h5>RECENT PROJECTS</h5>
    <ul>
@@ -70,6 +70,11 @@
 
 ##### READING HABITS
 <!-- DEVDAILY:START -->
+- [Please Start Writing Better Git Commits](https://app.daily.dev/posts/MED_DxGcl?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [How to automate API tests with Postman](https://app.daily.dev/posts/t8HiQN64h?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [How to Use Three.js And React to Render a 3D Model of Your Self](https://app.daily.dev/posts/pko_8ymRi?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Everything you need to learn TypeScript in just 4 minutes](https://app.daily.dev/posts/lFWZq0AsS?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [JavaScript object destructuring tips](https://app.daily.dev/posts/AMGDv225h?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <section>
