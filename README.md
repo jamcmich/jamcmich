@@ -12,7 +12,7 @@
    
    <h5>RECENT PROJECTS</h5>
    <ul>
-      <li>👀 Working on a <a href="https://github.com/jamcmich/tiktok-clone">TikTok Clone</a> using <b>Next.js</b>, <b>React</b>, <b>Node.js</b>, and <b>Tailwind</b></li>
+      <li>👀 Created a <a href="https://github.com/jamcmich/tiktok-clone">TikTok web app</a> using <b>Next.js</b>, <b>React</b>, <b>Node.js</b>, and <b>Tailwind</b></li>
       <li>🔍 Developed a <a href="https://github.com/jamcmich/google-search-clone">Google Search Clone</a> using <b>React</b>, <b>TypeScript</b>, and <b>WindiCSS</b></li>
       <li>💻 Participated in the <a href="https://cooksys.com/programs/fasttrack/" target="_blank">FastTrack coding boot camp</a> with CookSystems</li>
       <li>🎨 Designed a website for <a href="https://www.novohit.com/" target="_blank">Novohit</a> using <b>Figma</b> and <b>WordPress</b></li>
