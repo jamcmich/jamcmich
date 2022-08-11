@@ -68,8 +68,8 @@
    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" align='center' height='22px' />
    
    <h5>READING HABITS</h5>
-   <!--  daily.dev BOOKMARKS:START -->
-   <!--  daily.dev BOOKMARKS:END -->
+   <!--  DEVDAILY:START -->
+   <!--  DEVDAILY:END -->
 
    <h5></h5>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamcmich&layout=compact&theme=github_dark&custom_title=Top%20Languages&border_color=0d1117" alt="Top Languages" width='325px' align='top'>

@@ -13,8 +13,10 @@ jobs:
     name: Update README with latest bookmarks from daily.dev
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in dev.daily bookmarks
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          comment_tag_name: "daily.dev BOOKMARKS"
+          comment_tag_name: "DEVDAILY"
           feed_list: "https://api.daily.dev/rss/b/3b8ddcae-5226-4f6d-a783-590fcdbe9353"
