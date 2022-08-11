@@ -69,8 +69,8 @@
 </section>
 
 ##### READING HABITS
-<!--  DEVDAILY:START -->
-<!--  DEVDAILY:END -->
+<!-- DEVDAILY:START -->
+<!-- DEVDAILY:END -->
 
 <section>
    <h5></h5>
