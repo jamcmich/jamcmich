@@ -74,11 +74,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
-- [Please Start Writing Better Git Commits](https://app.daily.dev/posts/MED_DxGcl?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [How to automate API tests with Postman](https://app.daily.dev/posts/t8HiQN64h?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [How to Use Three.js And React to Render a 3D Model of Your Self](https://app.daily.dev/posts/pko_8ymRi?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Everything you need to learn TypeScript in just 4 minutes](https://app.daily.dev/posts/lFWZq0AsS?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [JavaScript object destructuring tips](https://app.daily.dev/posts/AMGDv225h?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [MongoDB schema design best practices](https://app.daily.dev/posts/FMEn-92Bk?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Introduction to Docker](https://app.daily.dev/posts/9-ujb5370?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Creating a business card for the terminal](https://app.daily.dev/posts/QJTjOMVg9?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Applying SOLID principles in React](https://app.daily.dev/posts/5O5uF8wQW?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Eugeny/tabby: A terminal for a more modern age](https://app.daily.dev/posts/68kN9lX3Q?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <section>
