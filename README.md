@@ -74,11 +74,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
-- [MongoDB schema design best practices](https://app.daily.dev/posts/FMEn-92Bk?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Introduction to Docker](https://app.daily.dev/posts/9-ujb5370?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Creating a business card for the terminal](https://app.daily.dev/posts/QJTjOMVg9?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Applying SOLID principles in React](https://app.daily.dev/posts/5O5uF8wQW?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Eugeny/tabby: A terminal for a more modern age](https://app.daily.dev/posts/68kN9lX3Q?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Learning to Love Your Terminal](https://app.daily.dev/posts/Un92UaLNy?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Setting up a terminal you will love to use](https://app.daily.dev/posts/R2kcisprw?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Warp: The terminal for the 21st century](https://app.daily.dev/posts/YgAnUhkmC?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [My Terminal Has SUPER Powers!](https://app.daily.dev/posts/kkGkB0oVm?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [7 Tips for Clean React TypeScript Code you Must Know](https://app.daily.dev/posts/UhLxVOj2i?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <section>
