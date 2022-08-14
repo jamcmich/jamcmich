@@ -2,7 +2,7 @@
 <section>
    <h2>🙋‍♂️ About Me</h2>
    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=4000&color=4795FF&center=false&vCenter=true&width=500&height=50&lines=Hey+%F0%9F%91%8B%2C+I'm+Jake!;Frontend+Web+Developer;Experienced+UI%2FUX+Designer" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=4795FF&vCenter=true&width=435&lines=Hello+World+%F0%9F%91%8B%2C+I'm+Jake!;Frontend+Web+Developer;Experienced+UI%2FUX+Designer" alt="Typing SVG" />
    </a>
    
    <ul>
