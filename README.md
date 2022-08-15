@@ -74,11 +74,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
-- [How to Google like a Pro – 10 Tips for More Effective Googling](https://app.daily.dev/posts/YI3qA6RMN?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Learning to Love Your Terminal](https://app.daily.dev/posts/Un92UaLNy?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Setting up a terminal you will love to use](https://app.daily.dev/posts/R2kcisprw?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Warp: The terminal for the 21st century](https://app.daily.dev/posts/YgAnUhkmC?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [My Terminal Has SUPER Powers!](https://app.daily.dev/posts/kkGkB0oVm?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Hide Your API Keys With an API Proxy Server](https://app.daily.dev/posts/YlgcURWX0?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [TanStack - High-quality open-source software for web developers](https://app.daily.dev/posts/MJ1Oid2i2?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Making Your Code Look Pretty](https://app.daily.dev/posts/NsqnasgdR?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [The 60:30:10 color rule for web design](https://app.daily.dev/posts/Rr7L2Tb3h?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [UI / UX Design Tutorial – From Zero to Hero with Wireframe + Prototype + Design in Figma](https://app.daily.dev/posts/pU2S8ZywS?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <section>
