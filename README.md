@@ -81,8 +81,9 @@
 - [SOLID: The First 5 Principles of Object Oriented Design](https://app.daily.dev/posts/w-KoPefMB?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
+<!-- Stats -->
 <section>
-   <h5></h5>
+   <h2>📊 Coding Habits</h2>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamcmich&layout=compact&theme=github_dark&custom_title=Top%20Languages&border_color=0d1117" alt="Top Languages" width='325px' align='top'>
    <img src="https://github-readme-stats.vercel.app/api?username=jamcmich&show_icons=true&count_private=true&custom_title=Github%20Stats&theme=github_dark&border_color=0d1117" alt="GitHub Stats" width='450px' align='top'>
    
