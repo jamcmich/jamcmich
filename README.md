@@ -74,11 +74,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
-- [Hide Your API Keys With an API Proxy Server](https://app.daily.dev/posts/YlgcURWX0?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [TanStack - High-quality open-source software for web developers](https://app.daily.dev/posts/MJ1Oid2i2?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Making Your Code Look Pretty](https://app.daily.dev/posts/NsqnasgdR?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [The 60:30:10 color rule for web design](https://app.daily.dev/posts/Rr7L2Tb3h?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [UI / UX Design Tutorial – From Zero to Hero with Wireframe + Prototype + Design in Figma](https://app.daily.dev/posts/pU2S8ZywS?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Building an In-Browser IDE the Hard Way](https://app.daily.dev/posts/jin6-4f-h?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Front End Interview Question](https://app.daily.dev/posts/xCi1q60wY?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [I&#39;ve started using Mozilla Firefox and now I can never go back to Google Chrome](https://app.daily.dev/posts/IH4hbhBuZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [7 Great Terminal/CLI Tools Not Everyone Knows](https://app.daily.dev/posts/eHm_uXdTW?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [SOLID: The First 5 Principles of Object Oriented Design](https://app.daily.dev/posts/w-KoPefMB?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <section>
