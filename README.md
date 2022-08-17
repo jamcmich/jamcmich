@@ -74,11 +74,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
-- [Building an In-Browser IDE the Hard Way](https://app.daily.dev/posts/jin6-4f-h?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Front End Interview Question](https://app.daily.dev/posts/xCi1q60wY?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [I&#39;ve started using Mozilla Firefox and now I can never go back to Google Chrome](https://app.daily.dev/posts/IH4hbhBuZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [7 Great Terminal/CLI Tools Not Everyone Knows](https://app.daily.dev/posts/eHm_uXdTW?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [SOLID: The First 5 Principles of Object Oriented Design](https://app.daily.dev/posts/w-KoPefMB?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Regex Cheat Sheet](https://app.daily.dev/posts/Y3o9N5laz?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [System Design: The complete course](https://app.daily.dev/posts/g81uW5ava?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [SSH tips and tricks](https://app.daily.dev/posts/5ZAOsYGQ_?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [A Complete Guide to Implementing Dark Mode in React](https://app.daily.dev/posts/jdtpvGWmF?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [I made a Discord bot using JavaScript in 4days!](https://app.daily.dev/posts/zCekOL0dU?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
