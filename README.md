@@ -74,11 +74,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
-- [Regex Cheat Sheet](https://app.daily.dev/posts/Y3o9N5laz?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [System Design: The complete course](https://app.daily.dev/posts/g81uW5ava?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [SSH tips and tricks](https://app.daily.dev/posts/5ZAOsYGQ_?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [A Complete Guide to Implementing Dark Mode in React](https://app.daily.dev/posts/jdtpvGWmF?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [I made a Discord bot using JavaScript in 4days!](https://app.daily.dev/posts/zCekOL0dU?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [NoSQL Data Modeling](https://app.daily.dev/posts/W1Yj8tFRe?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [How to Debug Better with Chrome](https://app.daily.dev/posts/gBykXRsyY?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Why You Should Choose NestJS as Your Backend Framework](https://app.daily.dev/posts/WmlrcmzKj?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [JavaScript Visualized: Prototypal Inheritance](https://app.daily.dev/posts/S6hT40aIS?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [100 underline/overlay animations | The ultimate CSS collection 🥇](https://app.daily.dev/posts/y9CFOUC5v?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
