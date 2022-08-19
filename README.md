@@ -78,7 +78,7 @@
 - [How to Debug Better with Chrome](https://app.daily.dev/posts/gBykXRsyY?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Why You Should Choose NestJS as Your Backend Framework](https://app.daily.dev/posts/WmlrcmzKj?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [JavaScript Visualized: Prototypal Inheritance](https://app.daily.dev/posts/S6hT40aIS?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [100 underline/overlay animations | The ultimate CSS collection 🥇](https://app.daily.dev/posts/y9CFOUC5v?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [100 underline/overlay animations | The ultimate CSS collection](https://app.daily.dev/posts/y9CFOUC5v?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
