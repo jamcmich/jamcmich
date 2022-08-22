@@ -74,11 +74,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
-- [NoSQL Data Modeling](https://app.daily.dev/posts/W1Yj8tFRe?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [How to Debug Better with Chrome](https://app.daily.dev/posts/gBykXRsyY?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Why You Should Choose NestJS as Your Backend Framework](https://app.daily.dev/posts/WmlrcmzKj?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [JavaScript Visualized: Prototypal Inheritance](https://app.daily.dev/posts/S6hT40aIS?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [100 underline/overlay animations | The ultimate CSS collection](https://app.daily.dev/posts/y9CFOUC5v?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Developer Toolbox - Access 15+ carefully constructed developer tools](https://app.daily.dev/posts/rAYUAy21r?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Code Refactoring in JavaScript](https://app.daily.dev/posts/JFg0eE3VK?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [What Is Bun.js and Why Is the JavaScript Community Excited About It?](https://app.daily.dev/posts/M7kPtmcKo?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [No More Confusion About TypeScript’s Type and Interface](https://app.daily.dev/posts/LhK-LHy13?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Git Concepts I Wish I Knew Years Ago](https://app.daily.dev/posts/Ax4qYMjhd?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
