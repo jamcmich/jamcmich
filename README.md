@@ -74,11 +74,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
-- [Beautify GitHub profile](https://app.daily.dev/posts/NWxwqeXa1?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Developer Toolbox - Access 15+ carefully constructed developer tools](https://app.daily.dev/posts/rAYUAy21r?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Code Refactoring in JavaScript](https://app.daily.dev/posts/JFg0eE3VK?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [What Is Bun.js and Why Is the JavaScript Community Excited About It?](https://app.daily.dev/posts/M7kPtmcKo?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [No More Confusion About TypeScript’s Type and Interface](https://app.daily.dev/posts/LhK-LHy13?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [GraphQL API design](https://app.daily.dev/posts/M05iZabFr?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [CompressImage.io - Reduce image size up to 90% in seconds, free &amp; works offline](https://app.daily.dev/posts/TfhQQQaRt?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Unit testing with Jest, React, and TypeScript](https://app.daily.dev/posts/oU7u32P0P?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [How I got my 1st job as a developer by making simple projects seem big](https://app.daily.dev/posts/XvYW-0TBi?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Responsive Design Theory](https://app.daily.dev/posts/NHAptJUr8?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
