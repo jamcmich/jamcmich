@@ -74,11 +74,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
+- [TypeScript: Ultimate guide for beginners](https://app.daily.dev/posts/pAmpJOsb1?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Best Practices for TypeScript Monorepo](https://app.daily.dev/posts/TXnZa7sjQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [GraphQL API design](https://app.daily.dev/posts/M05iZabFr?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [CompressImage.io - Reduce image size up to 90% in seconds, free &amp; works offline](https://app.daily.dev/posts/TfhQQQaRt?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Unit testing with Jest, React, and TypeScript](https://app.daily.dev/posts/oU7u32P0P?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [How I got my 1st job as a developer by making simple projects seem big](https://app.daily.dev/posts/XvYW-0TBi?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Responsive Design Theory](https://app.daily.dev/posts/NHAptJUr8?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
