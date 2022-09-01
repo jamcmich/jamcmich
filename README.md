@@ -74,11 +74,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
+- [Keyframes.app v2 - Simple dev tools for @keyframes, colors, shadows, &amp; more](https://app.daily.dev/posts/vZcUQt9wu?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Javascript to know for Reactjs](https://app.daily.dev/posts/_NLgqLDbo?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Announcing Docusaurus 2.0](https://app.daily.dev/posts/Ocfm6vNtX?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Delete unused node_modules in a second and enjoy some free space!](https://app.daily.dev/posts/nVLCwoVKm?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [TypeScript - The Best Way to Use It with React](https://app.daily.dev/posts/RGTj-TLRP?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Please Stop Using Local Storage](https://app.daily.dev/posts/nvKJpSIxv?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
