@@ -74,11 +74,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
+- [Automate your releases on GitHub.](https://app.daily.dev/posts/QTzl8rLK2?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [DevTools Tips: How to inspect CSS grid](https://app.daily.dev/posts/hcS3Uerbj?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [GIT Branching Strategies in 2022](https://app.daily.dev/posts/g4RDP7zlo?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Build a landing page for your SaaS app using React, Chakra UI and Typescript](https://app.daily.dev/posts/bEUekFmH8?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [The Power of JavaScript Generators](https://app.daily.dev/posts/fi9jYzupm?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Why Every React Developer Should Learn Function Composition](https://app.daily.dev/posts/gIPPPY5WQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Keyframes.app v2 - Simple dev tools for @keyframes, colors, shadows, &amp; more](https://app.daily.dev/posts/vZcUQt9wu?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Javascript to know for Reactjs](https://app.daily.dev/posts/_NLgqLDbo?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Announcing Docusaurus 2.0](https://app.daily.dev/posts/Ocfm6vNtX?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
