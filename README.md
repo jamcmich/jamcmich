@@ -100,7 +100,7 @@
    <a href='https://www.linkedin.com/in/jacobmcmichael/' target='_blank'>
       <img src='https://img.shields.io/badge/LinkedIn-D14836?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=white' alt='linkedin' />
    </a>
-   <a href='' target='_blank'>
+   <a href='https://www.instagram.com/jamcmich.dev/' target='_blank'>
       <img src='https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=white' alt='instagram' />
    </a>
    <a href='https://twitter.com/jamcmich' target='_blank'>
