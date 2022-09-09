@@ -91,6 +91,11 @@
    <img src='https://github.com/jamcmich/jamcmich/blob/output/github-contribution-grid-snake.svg?palette=github-dark&color_snake=#4795ff' />
 </section>
 
+<!-- Contributions -->
+   ## 🏅 Contributions</h2>
+   - [awesome-vscode](https://github.com/viatsko/awesome-vscode/pull/380#event-7169313045)</li>
+</section>
+
 <!-- Socials -->
 <section>
    <h2>📫 Get in Touch</h2>
