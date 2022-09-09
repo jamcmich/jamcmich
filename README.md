@@ -12,6 +12,7 @@
    
    <h5>RECENT PROJECTS</h5>
    <ul>
+      <li>🐦 Working on a <a href="https://github.com/jamcmich/social-media-app">Social Media app</a> using <b>Next.js</b>, <b>React</b>, <b>TypeScript</b>, <b>Prisma</b>, <b>GraphQL</b>, and <b>PostgreSQL</b></li>
       <li>👀 Created a <a href="https://github.com/jamcmich/tiktok-clone">TikTok web app</a> using <b>Next.js</b>, <b>React</b>, <b>Node.js</b>, and <b>Tailwind</b></li>
       <li>🔍 Developed a <a href="https://github.com/jamcmich/google-search-clone">Google Search Clone</a> using <b>React</b>, <b>TypeScript</b>, and <b>WindiCSS</b></li>
       <li>💻 Participated in the <a href="https://cooksys.com/programs/fasttrack/" target="_blank">FastTrack coding boot camp</a> with CookSystems</li>
