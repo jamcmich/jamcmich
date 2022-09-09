@@ -6,7 +6,7 @@
    </a>
    
    <ul>
-      <li>🐱‍💻 I'm a Frontend Web Developer from California with a passion for helping individuals and organizations accomplish their goals.</li>
+      <li>⌨️ I'm a Frontend Web Developer from California with a passion for helping individuals and organizations accomplish their goals.</li>
       <li>👔 Currently looking for a full-time position!</li>
    </ul>
    
