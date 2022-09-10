@@ -75,11 +75,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
+- [How to build a simulator for any feature — Part 1: Unit testing](https://app.daily.dev/posts/x6wCkibn_?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Automate your releases on GitHub.](https://app.daily.dev/posts/QTzl8rLK2?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [DevTools Tips: How to inspect CSS grid](https://app.daily.dev/posts/hcS3Uerbj?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [GIT Branching Strategies in 2022](https://app.daily.dev/posts/g4RDP7zlo?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Build a landing page for your SaaS app using React, Chakra UI and Typescript](https://app.daily.dev/posts/bEUekFmH8?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [The Power of JavaScript Generators](https://app.daily.dev/posts/fi9jYzupm?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
