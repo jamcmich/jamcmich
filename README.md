@@ -75,11 +75,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
-- [How to build a simulator for any feature — Part 1: Unit testing](https://app.daily.dev/posts/x6wCkibn_?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Automate your releases on GitHub.](https://app.daily.dev/posts/QTzl8rLK2?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [DevTools Tips: How to inspect CSS grid](https://app.daily.dev/posts/hcS3Uerbj?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [GIT Branching Strategies in 2022](https://app.daily.dev/posts/g4RDP7zlo?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Build a landing page for your SaaS app using React, Chakra UI and Typescript](https://app.daily.dev/posts/bEUekFmH8?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Ultimate Beginners&#39; Guide to JavaScript Recursion](https://app.daily.dev/posts/vyrj9Rw9w?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Write Better Commits, Build Better Software](https://app.daily.dev/posts/MUZuQNH74?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Am I Ready To Apply For Jobs?](https://app.daily.dev/posts/CBnGsOFCo?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Intro to Deno – Guide for Beginners](https://app.daily.dev/posts/V1R8wIJrn?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [50+ Awesome tools for Web Developers](https://app.daily.dev/posts/-jvDv35SM?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
