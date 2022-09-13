@@ -75,11 +75,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
+- [IdreesInc/Monocraft: A programming font based on the typeface used in Minecraft](https://app.daily.dev/posts/f5EPYTvcr?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Configuring your Git environment for success](https://app.daily.dev/posts/M1rUdK2Cx?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Resize Observer: How Does It work?](https://app.daily.dev/posts/eLoxT3JQw?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Ultimate Beginners&#39; Guide to JavaScript Recursion](https://app.daily.dev/posts/vyrj9Rw9w?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Write Better Commits, Build Better Software](https://app.daily.dev/posts/MUZuQNH74?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Am I Ready To Apply For Jobs?](https://app.daily.dev/posts/CBnGsOFCo?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
