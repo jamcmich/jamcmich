@@ -75,11 +75,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
-- [IdreesInc/Monocraft: A programming font based on the typeface used in Minecraft](https://app.daily.dev/posts/f5EPYTvcr?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Configuring your Git environment for success](https://app.daily.dev/posts/M1rUdK2Cx?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Resize Observer: How Does It work?](https://app.daily.dev/posts/eLoxT3JQw?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Ultimate Beginners&#39; Guide to JavaScript Recursion](https://app.daily.dev/posts/vyrj9Rw9w?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Write Better Commits, Build Better Software](https://app.daily.dev/posts/MUZuQNH74?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [GitPaid - Sell your GitHub repositories and start earning money](https://app.daily.dev/posts/QFSwOXLVm?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [5 Website Header Design Trends for 2023](https://app.daily.dev/posts/xacSCChPN?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Implementing user authorization in Next.js](https://app.daily.dev/posts/EngaWRNAS?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [How the JavaScript DOM Works – A Practical Tutorial](https://app.daily.dev/posts/cBCkwxRCA?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Top 30 React Interview Questions and Concepts](https://app.daily.dev/posts/I5EJDM-y_?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
