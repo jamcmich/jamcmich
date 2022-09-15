@@ -75,11 +75,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
+- [Mini Portfolio: Bring Your GitHub Profile To The Next Level](https://app.daily.dev/posts/BX6zKbvJW?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Working with the JavaScript Reflect API](https://app.daily.dev/posts/Xg7F43V_4?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [GitPaid - Sell your GitHub repositories and start earning money](https://app.daily.dev/posts/QFSwOXLVm?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [5 Website Header Design Trends for 2023](https://app.daily.dev/posts/xacSCChPN?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Implementing user authorization in Next.js](https://app.daily.dev/posts/EngaWRNAS?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [How the JavaScript DOM Works – A Practical Tutorial](https://app.daily.dev/posts/cBCkwxRCA?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Top 30 React Interview Questions and Concepts](https://app.daily.dev/posts/I5EJDM-y_?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
