@@ -75,11 +75,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
+- [JavaScript APIs You Don’t Know About — Smashing Magazine](https://app.daily.dev/posts/9IO8iicNY?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [JavaScript API Mocking Techniques](https://app.daily.dev/posts/L4nbuMrah?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Micro-Interactions using Anime.js](https://app.daily.dev/posts/iCEY2w120?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Working with Dates and Times with Day.js](https://app.daily.dev/posts/h80G0U-SR?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Mini Portfolio: Bring Your GitHub Profile To The Next Level](https://app.daily.dev/posts/BX6zKbvJW?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Working with the JavaScript Reflect API](https://app.daily.dev/posts/Xg7F43V_4?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [GitPaid - Sell your GitHub repositories and start earning money](https://app.daily.dev/posts/QFSwOXLVm?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [5 Website Header Design Trends for 2023](https://app.daily.dev/posts/xacSCChPN?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Implementing user authorization in Next.js](https://app.daily.dev/posts/EngaWRNAS?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
