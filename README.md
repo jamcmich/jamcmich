@@ -75,11 +75,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
+- [The 11 best online courses to supercharge your JavaScript skills](https://app.daily.dev/posts/eobvznzRl?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [7 New ES2022 JavaScript Features You Might Have Missed](https://app.daily.dev/posts/AlpKXlhdw?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [How to become a better developer](https://app.daily.dev/posts/XIA-o1rtC?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [JavaScript APIs You Don’t Know About — Smashing Magazine](https://app.daily.dev/posts/9IO8iicNY?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [JavaScript API Mocking Techniques](https://app.daily.dev/posts/L4nbuMrah?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Micro-Interactions using Anime.js](https://app.daily.dev/posts/iCEY2w120?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
