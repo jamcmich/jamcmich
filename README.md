@@ -75,11 +75,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
+- [Conditionally spreading objects in JavaScript](https://app.daily.dev/posts/E9jiVodcU?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Menu to Grid Layout Animation](https://app.daily.dev/posts/eMhLh-hO4?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [A simple example for NodeJS multiprocessing](https://app.daily.dev/posts/_6O5r709E?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Automate everything with Python](https://app.daily.dev/posts/rjfYlyH23?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [The Git Commands I Use Every Day](https://app.daily.dev/posts/3DEPJe6I6?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [The 11 best online courses to supercharge your JavaScript skills](https://app.daily.dev/posts/eobvznzRl?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [7 New ES2022 JavaScript Features You Might Have Missed](https://app.daily.dev/posts/AlpKXlhdw?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [How to become a better developer](https://app.daily.dev/posts/XIA-o1rtC?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
