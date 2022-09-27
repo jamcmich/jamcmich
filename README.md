@@ -75,11 +75,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
-- [Steps to Fall in Love With an Unfamiliar Codebase](https://app.daily.dev/posts/5UwkrkrMz?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Awesome Guidelines - High quality coding style conventions and standards](https://app.daily.dev/posts/FuJ_dcLG1?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Conditionally spreading objects in JavaScript](https://app.daily.dev/posts/E9jiVodcU?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Menu to Grid Layout Animation](https://app.daily.dev/posts/eMhLh-hO4?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [A simple example for NodeJS multiprocessing](https://app.daily.dev/posts/_6O5r709E?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Building a viral application to visualize train routes – Vercel](https://app.daily.dev/posts/THWNq6MKi?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Modern alternatives to BEM](https://app.daily.dev/posts/kGACZJTY3?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Semantic elements in HTML: why use them](https://app.daily.dev/posts/IYuQEstNn?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [10 HTML Tags for SEO🔍](https://app.daily.dev/posts/TzcP3OY-j?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Forever Functional: Sorting recipes for JavaScript](https://app.daily.dev/posts/JrqJNTPnW?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
