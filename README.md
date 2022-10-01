@@ -75,11 +75,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
-- [Steps to Fall in Love With an Unfamiliar Codebase](https://app.daily.dev/posts/5UwkrkrMz?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Awesome Guidelines - High quality coding style conventions and standards](https://app.daily.dev/posts/FuJ_dcLG1?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Conditionally spreading objects in JavaScript](https://app.daily.dev/posts/E9jiVodcU?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Menu to Grid Layout Animation](https://app.daily.dev/posts/eMhLh-hO4?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [A simple example for NodeJS multiprocessing](https://app.daily.dev/posts/_6O5r709E?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Building a beautiful Kanban board with Node.js, React, and Websockets 🦄 ✨](https://app.daily.dev/posts/iT28Apjp9?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Website to know as a programmer or to learn different things.](https://app.daily.dev/posts/NC-GkG0FI?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [JavaScript sending data between windows](https://app.daily.dev/posts/C_t4KFdnN?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [gitignore.io is great](https://app.daily.dev/posts/gzf82twtk?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [How to write maintainable JavaScript code in 2023 — Web or Node.js](https://app.daily.dev/posts/WROw5X1cD?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
