@@ -75,11 +75,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
+- [Let’s learn, build and sell an API](https://app.daily.dev/posts/vz70vYDdI?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Headless CMS vs Traditional CMS](https://app.daily.dev/posts/Zt0pssHZb?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Design Patterns and Principles That Support Large Scale Systems](https://app.daily.dev/posts/EP--fszYw?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Building a beautiful Kanban board with Node.js, React, and Websockets 🦄 ✨](https://app.daily.dev/posts/iT28Apjp9?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Website to know as a programmer or to learn different things.](https://app.daily.dev/posts/NC-GkG0FI?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [JavaScript sending data between windows](https://app.daily.dev/posts/C_t4KFdnN?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
