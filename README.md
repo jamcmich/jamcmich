@@ -75,11 +75,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
-- [10 Best Coding and Software Development Books for Programmers of All Level](https://app.daily.dev/posts/bcyq6sIws?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [React Best Practices for Software Design and Architecture](https://app.daily.dev/posts/Dj3q_0F6f?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [11 Non-Technical Lessons for Software Engineers](https://app.daily.dev/posts/1AyTytLbv?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Let’s learn, build and sell an API](https://app.daily.dev/posts/vz70vYDdI?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Headless CMS vs Traditional CMS](https://app.daily.dev/posts/Zt0pssHZb?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Building a NestJS REST API using Prisma ORM](https://app.daily.dev/posts/Oa0CdK8_O?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Applying Atomic Design to your Next.js project](https://app.daily.dev/posts/MwQUQbI7O?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [The Guide to New Hooks in React 18](https://app.daily.dev/posts/0KB-leCbN?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Quick guide to Generics in TypeScript](https://app.daily.dev/posts/BOITg-kma?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Make your React apps fast again](https://app.daily.dev/posts/O6yN0Qp7o?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
