@@ -75,11 +75,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
+- [Advice for Junior Developers](https://app.daily.dev/posts/_OH8Afgq9?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Git commit message convention that you can follow!](https://app.daily.dev/posts/JWLW2teg3?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Understanding Async &amp; Await](https://app.daily.dev/posts/Yc3AeZP0u?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Building a NestJS REST API using Prisma ORM](https://app.daily.dev/posts/Oa0CdK8_O?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Applying Atomic Design to your Next.js project](https://app.daily.dev/posts/MwQUQbI7O?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [The Guide to New Hooks in React 18](https://app.daily.dev/posts/0KB-leCbN?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
