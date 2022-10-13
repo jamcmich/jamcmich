@@ -9,14 +9,18 @@
       <li>⌨️ I'm a Frontend Web Developer from California with a passion for helping individuals and organizations accomplish their goals.</li>
       <li>👔 Currently looking for a full-time position!</li>
    </ul>
-   
-   <h5>RECENT PROJECTS</h5>
+
+   <h5>UNDOCUMENTED PROJECTS</h5>
    <ul>
       <li>🐦 Working on a <a href="https://github.com/jamcmich/social-media-app">Social Media app</a> using <b>Next.js</b>, <b>React</b>, <b>TypeScript</b>, <b>Prisma</b>, <b>GraphQL</b>, and <b>PostgreSQL</b></li>
       <li>👀 Created a <a href="https://github.com/jamcmich/tiktok-clone">TikTok web app</a> using <b>Next.js</b>, <b>React</b>, <b>Node.js</b>, and <b>Tailwind</b></li>
+   </ul>
+
+   <h5>DOCUMENTED PROJECTS</h5>
+   <ul>
       <li>🔍 Developed a <a href="https://github.com/jamcmich/google-search-clone">Google Search Clone</a> using <b>React</b>, <b>TypeScript</b>, and <b>WindiCSS</b></li>
       <li>💻 Participated in the <a href="https://cooksys.com/programs/fasttrack/" target="_blank">FastTrack coding boot camp</a> with CookSystems</li>
-      <li>🎨 Designed a website for <a href="https://www.novohit.com/" target="_blank">Novohit</a> using <b>Figma</b> and <b>WordPress</b></li>
+      <li>🎨 Designed a website for <a href="https://github.com/jamcmich/novohit-website-wordpress" target="_blank">Novohit</a> using <b>Figma</b> and <b>WordPress</b></li>
    </ul>
    
    <h5>SKILLS</h5>
@@ -70,16 +74,18 @@
 </section>
 
 ##### READING HABITS
+
 <!-- <a href="https://app.daily.dev/jamcmich">
    <img src="https://api.daily.dev/devcards/d89527afd0874cffb06af733e6be79fa.png?r=lko" width="300" alt="Jacob McMichael's Dev Card"/>
 </a> -->
 
 <!-- DEVDAILY:START -->
-- [Learn Docker and Kubernetes – Free Hands-On Course](https://app.daily.dev/posts/2Mqvum6fA?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [What are good CSS Breakpoint values for Responsive Design?](https://app.daily.dev/posts/GP5TQzpcN?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Advice for Junior Developers](https://app.daily.dev/posts/_OH8Afgq9?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Git commit message convention that you can follow!](https://app.daily.dev/posts/JWLW2teg3?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Understanding Async &amp; Await](https://app.daily.dev/posts/Yc3AeZP0u?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+
+-   [Learn Docker and Kubernetes – Free Hands-On Course](https://app.daily.dev/posts/2Mqvum6fA?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+-   [What are good CSS Breakpoint values for Responsive Design?](https://app.daily.dev/posts/GP5TQzpcN?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+-   [Advice for Junior Developers](https://app.daily.dev/posts/_OH8Afgq9?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+-   [Git commit message convention that you can follow!](https://app.daily.dev/posts/JWLW2teg3?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+-   [Understanding Async &amp; Await](https://app.daily.dev/posts/Yc3AeZP0u?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
@@ -92,8 +98,10 @@
 </section>
 
 <!-- Contributions -->
-   ## 🏅 Contributions</h2>
-   - [awesome-vscode](https://github.com/viatsko/awesome-vscode/pull/380#event-7169313045)</li>
+
+## 🏅 Contributions</h2>
+
+-   [awesome-vscode](https://github.com/viatsko/awesome-vscode/pull/380#event-7169313045)</li>
 </section>
 
 <!-- Socials -->
