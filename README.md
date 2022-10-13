@@ -19,12 +19,12 @@
    <h5>DOCUMENTED PROJECTS</h5>
    <ul>
       <li>🔍 Developed a <a href="https://github.com/jamcmich/google-search-clone">Google Search Clone</a> using <b>React</b>, <b>TypeScript</b>, and <b>WindiCSS</b></li>
-      <li>💻 Participated in the <a href="https://cooksys.com/programs/fasttrack/" target="_blank">FastTrack coding boot camp</a> with CookSystems</li>
       <li>🎨 Designed a website for <a href="https://github.com/jamcmich/novohit-website-wordpress" target="_blank">Novohit</a> using <b>Figma</b>, <b>WordPress</b>, and <b>Elementor</b></li>
    </ul>
-   
+
    <h5>SKILLS</h5>
    <ul>
+      <li>💻 Participated in the <a href="https://cooksys.com/programs/fasttrack/" target="_blank">FastTrack coding boot camp</a> with CookSystems</li>
       <li>🎓 Graduated from Arizona State University with a Bachelor's in <a href="https://artsmediaengineering.asu.edu/degree-programs/digital-culture-ba">Digital Culture</a>
       <li>🌱 Learning all about web development, performance optimization, deployment, and other best practices</li>
       <li>✨ Experienced in User Interface and User Experience design patterns</li>
