@@ -81,11 +81,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
+- [What is container orchestration?](https://app.daily.dev/posts/iHaeb5YTl?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Learn Docker and Kubernetes – Free Hands-On Course](https://app.daily.dev/posts/2Mqvum6fA?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [What are good CSS Breakpoint values for Responsive Design?](https://app.daily.dev/posts/GP5TQzpcN?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Advice for Junior Developers](https://app.daily.dev/posts/_OH8Afgq9?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Git commit message convention that you can follow!](https://app.daily.dev/posts/JWLW2teg3?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Understanding Async &amp; Await](https://app.daily.dev/posts/Yc3AeZP0u?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
