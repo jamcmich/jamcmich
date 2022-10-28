@@ -81,11 +81,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
+- [Please do repeat yourself &lpar;DRY is dead&rpar;](https://app.daily.dev/posts/deTDft1dX?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Fully Typed Web Apps](https://app.daily.dev/posts/3Ts_5WpiK?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Design Patterns in Software Development](https://app.daily.dev/posts/toSTez_LT?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Javascript Proxy: Using Javascript Proxies like a Pro](https://app.daily.dev/posts/H3-bwTn6_?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [10 Things Every Junior Software Developer Should Know To Be Successful](https://app.daily.dev/posts/kxSKheBkT?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Web Layouts – How to Use CSS Grid and Flex to Create a Responsive Web Page](https://app.daily.dev/posts/LoBxSTwQr?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
