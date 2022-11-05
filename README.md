@@ -25,7 +25,7 @@
 
    <h5>SKILLS</h5>
    <ul>
-      <li>💻 Participated in the <a href="https://cooksys.com/programs/fasttrack/" target="_blank">FastTrack coding boot camp</a> with CookSystems</li>
+      <li>💻 Completed the <a href="https://cooksys.com/programs/fasttrack/" target="_blank">FastTrack coding boot camp</a> with CookSystems</li>
       <li>🎓 Graduated from Arizona State University with a Bachelor's in <a href="https://artsmediaengineering.asu.edu/degree-programs/digital-culture-ba">Digital Culture</a>
       <li>🌱 Learning all about web development, performance optimization, deployment, and other best practices</li>
       <li>✨ Experienced in User Interface and User Experience design patterns</li>
