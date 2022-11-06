@@ -81,11 +81,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
+- [Creating a Discord bot with JavaScript and hosting it](https://app.daily.dev/posts/Fsw6vDkid?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Please do repeat yourself &lpar;DRY is dead&rpar;](https://app.daily.dev/posts/deTDft1dX?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Fully Typed Web Apps](https://app.daily.dev/posts/3Ts_5WpiK?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Design Patterns in Software Development](https://app.daily.dev/posts/toSTez_LT?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Javascript Proxy: Using Javascript Proxies like a Pro](https://app.daily.dev/posts/H3-bwTn6_?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [10 Things Every Junior Software Developer Should Know To Be Successful](https://app.daily.dev/posts/kxSKheBkT?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
