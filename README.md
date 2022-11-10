@@ -19,6 +19,7 @@
 
    <h5>DOCUMENTED PROJECTS</h5>
    <ul>
+      <li>🔷 Re-created the <a href="https://github.com/jamcmich/portland-webworks-exercise">South Carolina Revenue and Fiscal Affairs Office website</a> with <b>Vite</b>, <b>Vue</b>, and <b>SASS</b> for practice!</li>
       <li>🔍 Developed a <a href="https://github.com/jamcmich/google-search-clone">Google Search clone</a> using <b>React</b>, <b>TypeScript</b>, and <b>WindiCSS</b></li>
       <li>🎨 Designed a website for <a href="https://github.com/jamcmich/novohit-website-wordpress" target="_blank">Novohit</a> using <b>Figma</b>, <b>WordPress</b>, and <b>Elementor</b></li>
    </ul>
