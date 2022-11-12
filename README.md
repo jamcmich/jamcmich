@@ -82,11 +82,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
-- [Moving Letters](https://app.daily.dev/posts/pC_SMWBXR?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Creating a Discord bot with JavaScript and hosting it](https://app.daily.dev/posts/Fsw6vDkid?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Please do repeat yourself &lpar;DRY is dead&rpar;](https://app.daily.dev/posts/deTDft1dX?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Fully Typed Web Apps](https://app.daily.dev/posts/3Ts_5WpiK?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Design Patterns in Software Development](https://app.daily.dev/posts/toSTez_LT?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Let’s understand WEBPACK !!!](https://app.daily.dev/posts/yHqFgGTqj?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [How to use Web Workers API](https://app.daily.dev/posts/61Kh1offS?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Stylify CSS - Stylify uses CSS-like selectors to generate optimized CSS](https://app.daily.dev/posts/n6EJQhAgh?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [5 websites to learn Frontend-web development faster](https://app.daily.dev/posts/il_IdGy1A?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Improve your TypeScript Skills with Type Challenges](https://app.daily.dev/posts/Vz2z3nXeb?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
