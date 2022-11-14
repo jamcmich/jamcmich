@@ -82,11 +82,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
+- [The State of Frontend in 2022](https://app.daily.dev/posts/F7xSx27d-?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [The Full-stack Software Design &amp; Architecture Map](https://app.daily.dev/posts/vaPC2bYiO?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Let’s understand WEBPACK !!!](https://app.daily.dev/posts/yHqFgGTqj?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [How to use Web Workers API](https://app.daily.dev/posts/61Kh1offS?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Stylify CSS - Stylify uses CSS-like selectors to generate optimized CSS](https://app.daily.dev/posts/n6EJQhAgh?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [5 websites to learn Frontend-web development faster](https://app.daily.dev/posts/il_IdGy1A?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Improve your TypeScript Skills with Type Challenges](https://app.daily.dev/posts/Vz2z3nXeb?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
