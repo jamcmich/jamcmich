@@ -20,7 +20,7 @@
    <h5>UNDOCUMENTED PROJECTS</h5>
    <ul>
       <li>⌨️ Building a <a href="https://jamcmich.github.io/">personal website</a> with <b>Vue.js</b> and <b>SCSS</b>
-      <li>🐦 Working on a <a href="https://github.com/jamcmich/social-media-app">Social Media app</a> using <b>Next.js</b>, <b>React</b>, <b>TypeScript</b>, <b>Prisma</b>, <b>GraphQL</b>, and <b>PostgreSQL</b></li>
+      <li>🐦 <s>Working on a <a href="https://github.com/jamcmich/social-media-app">Social Media app</a> using <b>Next.js</b>, <b>React</b>, <b>TypeScript</b>, <b>Prisma</b>, <b>GraphQL</b>, and <b>PostgreSQL</b></s></li>
       <li>👀 Created a <a href="https://github.com/jamcmich/tiktok-clone">TikTok web app</a> using <b>Next.js</b>, <b>React</b>, <b>Node.js</b>, and <b>Tailwind</b></li>
    </ul>
 
