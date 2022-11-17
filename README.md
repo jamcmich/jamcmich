@@ -82,11 +82,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
+- [Tailscan for Tailwind CSS - The ultimate developer tool for Tailwind CSS](https://app.daily.dev/posts/9dYkDXrw8?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Tools I Am Using On A Daily Basis](https://app.daily.dev/posts/rECk6xagZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Clean Code in TypeScript](https://app.daily.dev/posts/xvdHkKJJx?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Vite 3.0 is out!](https://app.daily.dev/posts/k5yoXrCgR?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [The State of Frontend in 2022](https://app.daily.dev/posts/F7xSx27d-?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [The Full-stack Software Design &amp; Architecture Map](https://app.daily.dev/posts/vaPC2bYiO?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Let’s understand WEBPACK !!!](https://app.daily.dev/posts/yHqFgGTqj?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [How to use Web Workers API](https://app.daily.dev/posts/61Kh1offS?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Stylify CSS - Stylify uses CSS-like selectors to generate optimized CSS](https://app.daily.dev/posts/n6EJQhAgh?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
