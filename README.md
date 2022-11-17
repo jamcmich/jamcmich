@@ -82,11 +82,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
+- [CSS Best Practices: 16 Ways to Improve Your CSS Skills Quickly](https://app.daily.dev/posts/84ZXcPDZg?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Tailscan for Tailwind CSS - The ultimate developer tool for Tailwind CSS](https://app.daily.dev/posts/9dYkDXrw8?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Tools I Am Using On A Daily Basis](https://app.daily.dev/posts/rECk6xagZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Clean Code in TypeScript](https://app.daily.dev/posts/xvdHkKJJx?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Vite 3.0 is out!](https://app.daily.dev/posts/k5yoXrCgR?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [The State of Frontend in 2022](https://app.daily.dev/posts/F7xSx27d-?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
