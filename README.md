@@ -82,11 +82,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
+- [Data Structures In Frontend JavaScript In The Real World With React Code Examples](https://app.daily.dev/posts/Z97NHaDVI?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [7 Microservice Design Patterns to Use](https://app.daily.dev/posts/-7Mp7qjCI?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Javascript Design Patterns](https://app.daily.dev/posts/z7nr1iZEg?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [CSS Best Practices: 16 Ways to Improve Your CSS Skills Quickly](https://app.daily.dev/posts/84ZXcPDZg?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Tailscan for Tailwind CSS - The ultimate developer tool for Tailwind CSS](https://app.daily.dev/posts/9dYkDXrw8?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Tools I Am Using On A Daily Basis](https://app.daily.dev/posts/rECk6xagZ?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Clean Code in TypeScript](https://app.daily.dev/posts/xvdHkKJJx?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Vite 3.0 is out!](https://app.daily.dev/posts/k5yoXrCgR?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
