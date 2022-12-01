@@ -33,6 +33,11 @@
       <li>📐 Discovering my potential for developing web apps with JavaScript, Vue, React, and SASS</li>
    </ul>
    
+   <h5>CERTIFICATIONS</h5>
+   <ul>
+      <li><a href="https://www.freecodecamp.org/certification/jamcmich/javascript-algorithms-and-data-structures">FreeCodeCamp — Javascript Algorithms and Data Structures</a></li>
+   </ul>
+   
    <h5>HOBBIES</h5>
    <ul>
       <li>🎾 Avid tennis player</li>
