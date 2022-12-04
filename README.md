@@ -24,7 +24,7 @@
       <li>👀 Created a <a href="https://github.com/jamcmich/tiktok-clone">TikTok web app</a> using <b>Next.js</b>, <b>React</b>, <b>Node.js</b>, and <b>Tailwind</b></li>
    </ul>
 
-   <h5>SKILLS</h5>
+   <h5>EDUCATION</h5>
    <ul>
       <li>💻 Completed the <a href="https://cooksys.com/programs/fasttrack/" target="_blank">FastTrack coding boot camp</a> with CookSystems</li>
       <li>🎓 Graduated from Arizona State University with a Bachelor's in <a href="https://artsmediaengineering.asu.edu/degree-programs/digital-culture-ba">Digital Culture</a>
@@ -35,7 +35,13 @@
    
    <h5>CERTIFICATIONS</h5>
    <ul>
-      <li><a href="https://www.freecodecamp.org/certification/jamcmich/javascript-algorithms-and-data-structures">FreeCodeCamp — Javascript Algorithms and Data Structures</a></li>
+      <li><a href="https://www.credential.net/f8d77b94-7cf3-43f7-b1f2-1d2dae3a344d">Full-Stack Software Development — CookSystems</a></li>
+      <li><a href="https://www.freecodecamp.org/certification/jamcmich/javascript-algorithms-and-data-structures">Javascript Algorithms and Data Structures — FreeCodeCamp</a></li>
+      <li><a href="https://www.linkedin.com/learning/figma-for-ux-design-2">Figma for UX Design — LinkedIn</a></li>
+      <li><a href="https://www.linkedin.com/learning/git-essential-training-the-basics">Git Essential Training — LinkedIn</a></li>
+      <li><a href="https://www.linkedin.com/learning/html-essential-training-4">HTML Essential Training — LinkedIn</a></li>
+      <li><a href="https://www.linkedin.com/learning/how-to-organize-your-time-and-your-life">How to Organize Your Time and Your Life — LinkedIn</a></li>
+      <li><a href="https://www.linkedin.com/learning/mindsets-and-strategies-for-negotiation-success">Mindsets and Strategies for Negotiation Success — LinkedIn</a></li>
    </ul>
    
    <h5>HOBBIES</h5>
