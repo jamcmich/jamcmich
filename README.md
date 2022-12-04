@@ -87,11 +87,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
+- [Color Formats in CSS](https://app.daily.dev/posts/-HwjQghUA?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Mapping Relational Databases and SQL to MongoDB](https://app.daily.dev/posts/GcfuY8TCh?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Advanced page transitions with Next.js and Framer Motion](https://app.daily.dev/posts/gIa4FyyCf?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [As a Front-End Engineer: 8 Useful Npm Coding Techniques That You Should Use](https://app.daily.dev/posts/JWlLl77Ls?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Data Structures In Frontend JavaScript In The Real World With React Code Examples](https://app.daily.dev/posts/Z97NHaDVI?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [7 Microservice Design Patterns to Use](https://app.daily.dev/posts/-7Mp7qjCI?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Javascript Design Patterns](https://app.daily.dev/posts/z7nr1iZEg?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [CSS Best Practices: 16 Ways to Improve Your CSS Skills Quickly](https://app.daily.dev/posts/84ZXcPDZg?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Tailscan for Tailwind CSS - The ultimate developer tool for Tailwind CSS](https://app.daily.dev/posts/9dYkDXrw8?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
