@@ -93,11 +93,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
+- [How McDonalds implements Event Driven Architectures](https://app.daily.dev/posts/ZZQ_qw7ba?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Awesome Dev Tool Tips 🔥](https://app.daily.dev/posts/RRiV8zu39?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Git skills you didn’t know you wanted](https://app.daily.dev/posts/CyoQXfimo?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Color Formats in CSS](https://app.daily.dev/posts/-HwjQghUA?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Mapping Relational Databases and SQL to MongoDB](https://app.daily.dev/posts/GcfuY8TCh?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Advanced page transitions with Next.js and Framer Motion](https://app.daily.dev/posts/gIa4FyyCf?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [As a Front-End Engineer: 8 Useful Npm Coding Techniques That You Should Use](https://app.daily.dev/posts/JWlLl77Ls?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Data Structures In Frontend JavaScript In The Real World With React Code Examples](https://app.daily.dev/posts/Z97NHaDVI?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
