@@ -93,11 +93,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
-- [How McDonalds implements Event Driven Architectures](https://app.daily.dev/posts/ZZQ_qw7ba?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Awesome Dev Tool Tips 🔥](https://app.daily.dev/posts/RRiV8zu39?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Git skills you didn’t know you wanted](https://app.daily.dev/posts/CyoQXfimo?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Color Formats in CSS](https://app.daily.dev/posts/-HwjQghUA?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Mapping Relational Databases and SQL to MongoDB](https://app.daily.dev/posts/GcfuY8TCh?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Hour of Code: Top 5 Frontend Projects](https://app.daily.dev/posts/dc1VLV-br?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Vite 4.0 is out!](https://app.daily.dev/posts/as9uDfgH4?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Conditional wrapping in React](https://app.daily.dev/posts/SoVkgaYUI?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Avoiding &lpar;5&rpar; common Git mistakes in a team environment](https://app.daily.dev/posts/qnfHjN2Su?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [CodeImage - A tool for manage and beautify your code screenshots](https://app.daily.dev/posts/_XS_eodvC?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
