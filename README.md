@@ -93,11 +93,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
+- [CSS Style Queries](https://app.daily.dev/posts/wmrMa8PJM?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [The complete guide to System Design in 2022](https://app.daily.dev/posts/lFZjTAyHf?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Hour of Code: Top 5 Frontend Projects](https://app.daily.dev/posts/dc1VLV-br?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Vite 4.0 is out!](https://app.daily.dev/posts/as9uDfgH4?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Conditional wrapping in React](https://app.daily.dev/posts/SoVkgaYUI?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Avoiding &lpar;5&rpar; common Git mistakes in a team environment](https://app.daily.dev/posts/qnfHjN2Su?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [CodeImage - A tool for manage and beautify your code screenshots](https://app.daily.dev/posts/_XS_eodvC?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
