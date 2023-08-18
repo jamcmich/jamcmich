@@ -93,11 +93,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
+- [Dev Links - All links a developer would need](https://app.daily.dev/posts/zvdrdrpXT?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [6 Low-Code Tools That Will Make You a Better Frontend Developer](https://app.daily.dev/posts/o4ajSnl57?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Top 10 VS Code Extension to Increase 10x Productivity](https://app.daily.dev/posts/LMarvvARk?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [The Cost Of JavaScript - 2023](https://app.daily.dev/posts/CcXhhg1Fn?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [CSS Style Queries](https://app.daily.dev/posts/wmrMa8PJM?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [The complete guide to System Design in 2022](https://app.daily.dev/posts/lFZjTAyHf?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Hour of Code: Top 5 Frontend Projects](https://app.daily.dev/posts/dc1VLV-br?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
