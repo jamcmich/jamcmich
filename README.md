@@ -93,11 +93,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
-- [Dev Links - All links a developer would need](https://app.daily.dev/posts/zvdrdrpXT?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [6 Low-Code Tools That Will Make You a Better Frontend Developer](https://app.daily.dev/posts/o4ajSnl57?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Top 10 VS Code Extension to Increase 10x Productivity](https://app.daily.dev/posts/LMarvvARk?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [The Cost Of JavaScript - 2023](https://app.daily.dev/posts/CcXhhg1Fn?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [CSS Style Queries](https://app.daily.dev/posts/wmrMa8PJM?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [10 Money Lessons I Wish I Knew When I Was 25](https://app.daily.dev/posts/7dC6URNfQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Monorepo Explained](https://app.daily.dev/posts/L2jRzty90?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Array Types in TypeScript](https://app.daily.dev/posts/eydTImh0t?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [UI over APIs](https://app.daily.dev/posts/9FKAcHI9Y?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Lazy Loading in JavaScript](https://app.daily.dev/posts/7AWYL5ANr?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
