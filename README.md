@@ -93,11 +93,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
-- [10 Money Lessons I Wish I Knew When I Was 25](https://app.daily.dev/posts/7dC6URNfQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Monorepo Explained](https://app.daily.dev/posts/L2jRzty90?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Array Types in TypeScript](https://app.daily.dev/posts/eydTImh0t?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [UI over APIs](https://app.daily.dev/posts/9FKAcHI9Y?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Lazy Loading in JavaScript](https://app.daily.dev/posts/7AWYL5ANr?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [React Styling: Essential Tips and Tricks for Designers](https://app.daily.dev/posts/1RBBhr58R?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [DESIGN PATTERNS : A Deep Dive into Common Design Patterns](https://app.daily.dev/posts/bQmvydvWx?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [1500+ Free HTML Website Templates on HTMLrev](https://app.daily.dev/posts/5Z17QqtkD?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Top 10 Platforms to Practice Python](https://app.daily.dev/posts/UfYatzvpz?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Free Public APIs](https://app.daily.dev/posts/yKoqdARuO?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
