@@ -93,11 +93,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
+- [How I build a button component](https://app.daily.dev/posts/09xmP1kDI?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [12 Logging BEST Practices in 12 minutes](https://app.daily.dev/posts/X3bGw9VYO?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [React Styling: Essential Tips and Tricks for Designers](https://app.daily.dev/posts/1RBBhr58R?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [DESIGN PATTERNS : A Deep Dive into Common Design Patterns](https://app.daily.dev/posts/bQmvydvWx?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [1500+ Free HTML Website Templates on HTMLrev](https://app.daily.dev/posts/5Z17QqtkD?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Top 10 Platforms to Practice Python](https://app.daily.dev/posts/UfYatzvpz?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
