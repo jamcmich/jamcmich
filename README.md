@@ -93,11 +93,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
+- [Docker for Web Developers: Starting with the Basics](https://app.daily.dev/posts/GeI8Fmk1f?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [How I build a button component](https://app.daily.dev/posts/09xmP1kDI?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [12 Logging BEST Practices in 12 minutes](https://app.daily.dev/posts/X3bGw9VYO?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [React Styling: Essential Tips and Tricks for Designers](https://app.daily.dev/posts/1RBBhr58R?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [DESIGN PATTERNS : A Deep Dive into Common Design Patterns](https://app.daily.dev/posts/bQmvydvWx?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [1500+ Free HTML Website Templates on HTMLrev](https://app.daily.dev/posts/5Z17QqtkD?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
