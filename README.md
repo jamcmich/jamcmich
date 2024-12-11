@@ -93,11 +93,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
+- [Mastering Git: Hidden Commands Every Developer Should Know](https://app.daily.dev/posts/E4NNrE2x6?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [How to Create a Reusable Modal Component in React](https://app.daily.dev/posts/ld1j2RDCB?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [100+ React Dashboard Components to Use in 2024](https://app.daily.dev/posts/hYB8LUeab?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [API Security Best Practices: Protecting Your Data in Transit](https://app.daily.dev/posts/3V3c1C3Hj?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Bad questions for Senior Frontend Dev Interview](https://app.daily.dev/posts/awFpZPu37?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [How HTTPS works ...in a comic!](https://app.daily.dev/posts/bysKULz3T?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Understanding JWT, OAuth, and Bearer tokens](https://app.daily.dev/posts/8CUQxSwDw?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [CSS &amp; HTML, Build Tools, JS Utilities](https://app.daily.dev/posts/ClFY0R7Ji?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
