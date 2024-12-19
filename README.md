@@ -93,11 +93,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
-- [Mastering Git: Hidden Commands Every Developer Should Know](https://app.daily.dev/posts/E4NNrE2x6?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [How to Create a Reusable Modal Component in React](https://app.daily.dev/posts/ld1j2RDCB?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [100+ React Dashboard Components to Use in 2024](https://app.daily.dev/posts/hYB8LUeab?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [API Security Best Practices: Protecting Your Data in Transit](https://app.daily.dev/posts/3V3c1C3Hj?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [Bad questions for Senior Frontend Dev Interview](https://app.daily.dev/posts/awFpZPu37?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [How to use ReactJS for secure Role Based Access Control](https://app.daily.dev/posts/jrdD1Jag0?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!](https://app.daily.dev/posts/ypr7KVVxM?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [9 React Testing Best Practices for Better Design and Quality of Your Tests. A Senior Engineer’s Guide to Effective React Testing &lpar;includes Cheat Sheet&rpar;.](https://app.daily.dev/posts/u5IRwvpNh?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [Documenting design process with Notion](https://app.daily.dev/posts/2dMTqWzR0?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
+- [How To Code So Fast It Feels Illegal](https://app.daily.dev/posts/FZabDnSsA?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
