@@ -93,11 +93,11 @@
 </a> -->
 
 <!-- DEVDAILY:START -->
+- [No title](https://app.daily.dev/posts/wzNYFlgrw?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [How to use ReactJS for secure Role Based Access Control](https://app.daily.dev/posts/jrdD1Jag0?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!](https://app.daily.dev/posts/ypr7KVVxM?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [9 React Testing Best Practices for Better Design and Quality of Your Tests. A Senior Engineer’s Guide to Effective React Testing &lpar;includes Cheat Sheet&rpar;.](https://app.daily.dev/posts/u5IRwvpNh?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 - [Documenting design process with Notion](https://app.daily.dev/posts/2dMTqWzR0?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
-- [How To Code So Fast It Feels Illegal](https://app.daily.dev/posts/FZabDnSsA?utm_source=rss&utm_medium=bookmarks&utm_campaign=nIiW8eXzjufUaJRg94FD0)
 <!-- DEVDAILY:END -->
 
 <!-- Stats -->
